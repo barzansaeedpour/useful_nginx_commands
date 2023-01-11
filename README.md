@@ -2,6 +2,6 @@
 
 
 ## change to root user:
-```
+```shell
 sudo su
 ```
